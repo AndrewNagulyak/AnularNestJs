@@ -4,6 +4,7 @@
     "types": ["node"],
     "declaration": true,
     "removeComments": true,
+    "skipLibCheck": true,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "allowSyntheticDefaultImports": true,
